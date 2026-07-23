@@ -68,6 +68,7 @@ htmlcov/
 # Streamlit
 # ===========================
 .streamlit/secrets.toml
+inventory.db
 
 # ===========================
 # Model Files (Optional)
