@@ -1,0 +1,102 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+env/
+ENV/
+.venv/
+models/
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# IDEs
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+data/
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.*
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# Python Packaging
+# ===========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===========================
+# Testing
+# ===========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===========================
+# Type Checkers
+# ===========================
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# ===========================
+# Streamlit
+# ===========================
+.streamlit/secrets.toml
+
+# ===========================
+# Model Files (Optional)
+# Uncomment if models are too large
+# ===========================
+# models/*.pkl
+# models/*.joblib
+# models/*.h5
+# models/*.pt
+# models/*.onnx
+
+# ===========================
+# Data Files (Optional)
+# Uncomment if datasets are large
+# ===========================
+# data/
+# *.csv
+# *.xlsx
+# *.db
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# ===========================
+# Miscellaneous
+# ===========================
+.cache/
